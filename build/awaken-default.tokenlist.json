@@ -1,0 +1,337 @@
+{
+  "name": "Awaken Default List",
+  "timestamp": "2022-11-17T07:49:24.259Z",
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 1
+  },
+  "tags": {},
+  "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
+  "keywords": [
+    "uniswap",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "AAAAAAAAAA token",
+      "symbol": "AAAAAAAAAA",
+      "address": "AAAAAAAAAA",
+      "chainId": "tDVW",
+      "decimals": 16,
+      "logoURI": ""
+    },
+    {
+      "name": "ABTC Token",
+      "symbol": "ABTC",
+      "address": "ABTC",
+      "chainId": "tDVW",
+      "decimals": 4,
+      "logoURI": ""
+    },
+    {
+      "name": "AKA Token",
+      "symbol": "AKA",
+      "address": "AKA",
+      "chainId": "tDVW",
+      "decimals": 4,
+      "logoURI": ""
+    },
+    {
+      "name": "AMBER FINANCE",
+      "symbol": "AMBERFI",
+      "address": "AMBERFI",
+      "chainId": "tDVW",
+      "decimals": 8,
+      "logoURI": ""
+    },
+    {
+      "name": "AWAKEN token",
+      "symbol": "AWAKEN",
+      "address": "AWAKEN",
+      "chainId": "tDVW",
+      "decimals": 8,
+      "logoURI": ""
+    },
+    {
+      "name": "BAI Token",
+      "symbol": "BAI",
+      "address": "BAI",
+      "chainId": "tDVW",
+      "decimals": 4,
+      "logoURI": ""
+    },
+    {
+      "name": "BBBBBBBBBB token",
+      "symbol": "BBBBBBBBBB",
+      "address": "BBBBBBBBBB",
+      "chainId": "tDVW",
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "name": "CC token",
+      "symbol": "CC",
+      "address": "CC",
+      "chainId": "tDVW",
+      "decimals": 8,
+      "logoURI": ""
+    },
+    {
+      "name": "dooo",
+      "symbol": "DOOO",
+      "address": "DOOO",
+      "chainId": "tDVW",
+      "decimals": 8,
+      "logoURI": ""
+    },
+    {
+      "name": "EE token",
+      "symbol": "EE",
+      "address": "EE",
+      "chainId": "tDVW",
+      "decimals": 6,
+      "logoURI": ""
+    },
+    {
+      "name": "EWELL Token",
+      "symbol": "EWELL",
+      "address": "EWELL",
+      "chainId": "tDVW",
+      "decimals": 4,
+      "logoURI": ""
+    },
+    {
+      "name": "IIIIIIIIII token",
+      "symbol": "IIIIIIIIII",
+      "address": "IIIIIIIIII",
+      "chainId": "tDVW",
+      "decimals": 16,
+      "logoURI": ""
+    },
+    {
+      "name": "LEEKS Token",
+      "symbol": "LEEKS",
+      "address": "LEEKS",
+      "chainId": "tDVW",
+      "decimals": 8,
+      "logoURI": ""
+    },
+    {
+      "name": "LZK Token",
+      "symbol": "LZK",
+      "address": "LZK",
+      "chainId": "tDVW",
+      "decimals": 6,
+      "logoURI": ""
+    },
+    {
+      "name": "MINTTEST Token",
+      "symbol": "MINTTEST",
+      "address": "MINTTEST",
+      "chainId": "tDVW",
+      "decimals": 8,
+      "logoURI": ""
+    },
+    {
+      "name": "NW Token",
+      "symbol": "NW",
+      "address": "NW",
+      "chainId": "tDVW",
+      "decimals": 4,
+      "logoURI": ""
+    },
+    {
+      "name": "OOOOOOOOOO token",
+      "symbol": "OOOOOOOOOO",
+      "address": "OOOOOOOOOO",
+      "chainId": "tDVW",
+      "decimals": 16,
+      "logoURI": ""
+    },
+    {
+      "name": "OPAL FINANCE",
+      "symbol": "OPALFI",
+      "address": "OPALFI",
+      "chainId": "tDVW",
+      "decimals": 8,
+      "logoURI": ""
+    },
+    {
+      "name": "PAPA Token",
+      "symbol": "PAPA",
+      "address": "PAPA",
+      "chainId": "tDVW",
+      "decimals": 7,
+      "logoURI": ""
+    },
+    {
+      "name": "PIAJI Token",
+      "symbol": "PIAJI",
+      "address": "PIAJI",
+      "chainId": "tDVW",
+      "decimals": 4,
+      "logoURI": ""
+    },
+    {
+      "name": "PIGE Token",
+      "symbol": "PIGE",
+      "address": "PIGE",
+      "chainId": "tDVW",
+      "decimals": 8,
+      "logoURI": ""
+    },
+    {
+      "name": "PPPPPPPPPP token",
+      "symbol": "PPPPPPPPPP",
+      "address": "PPPPPPPPPP",
+      "chainId": "tDVW",
+      "decimals": 16,
+      "logoURI": ""
+    },
+    {
+      "name": "QQ token",
+      "symbol": "QQ",
+      "address": "QQ",
+      "chainId": "tDVW",
+      "decimals": 8,
+      "logoURI": ""
+    },
+    {
+      "name": "Test token for side chain",
+      "symbol": "QWERT",
+      "address": "QWERT",
+      "chainId": "tDVW",
+      "decimals": 6,
+      "logoURI": ""
+    },
+    {
+      "name": "RR token",
+      "symbol": "RR",
+      "address": "RR",
+      "chainId": "tDVW",
+      "decimals": 6,
+      "logoURI": ""
+    },
+    {
+      "name": "SAPPHIRE FINANCE",
+      "symbol": "SAPPHIRE",
+      "address": "SAPPHIRE",
+      "chainId": "tDVW",
+      "decimals": 8,
+      "logoURI": ""
+    },
+    {
+      "name": "SUN Token",
+      "symbol": "SUN",
+      "address": "SUN",
+      "chainId": "tDVW",
+      "decimals": 4,
+      "logoURI": ""
+    },
+    {
+      "name": "SYB Token",
+      "symbol": "SYB",
+      "address": "SYB",
+      "chainId": "tDVW",
+      "decimals": 5,
+      "logoURI": ""
+    },
+    {
+      "name": "TAY Token",
+      "symbol": "TAY",
+      "address": "TAY",
+      "chainId": "tDVW",
+      "decimals": 4,
+      "logoURI": ""
+    },
+    {
+      "name": "TT token",
+      "symbol": "TT",
+      "address": "TT",
+      "chainId": "tDVW",
+      "decimals": 4,
+      "logoURI": ""
+    },
+    {
+      "name": "UU token",
+      "symbol": "UU",
+      "address": "UU",
+      "chainId": "tDVW",
+      "decimals": 2,
+      "logoURI": ""
+    },
+    {
+      "name": "VIOLA Token",
+      "symbol": "VIOLA",
+      "address": "VIOLA",
+      "chainId": "tDVW",
+      "decimals": 7,
+      "logoURI": ""
+    },
+    {
+      "name": "WH Token",
+      "symbol": "WH",
+      "address": "WH",
+      "chainId": "tDVW",
+      "decimals": 6,
+      "logoURI": ""
+    },
+    {
+      "name": "WN Token",
+      "symbol": "WN",
+      "address": "WN",
+      "chainId": "tDVW",
+      "decimals": 4,
+      "logoURI": ""
+    },
+    {
+      "name": "WWWWWWWWWW token",
+      "symbol": "WWWWWWWWWW",
+      "address": "WWWWWWWWWW",
+      "chainId": "tDVW",
+      "decimals": 8,
+      "logoURI": ""
+    },
+    {
+      "name": "YB Token",
+      "symbol": "YB",
+      "address": "YB",
+      "chainId": "tDVW",
+      "decimals": 5,
+      "logoURI": ""
+    },
+    {
+      "name": "yiqi",
+      "symbol": "YIQI",
+      "address": "YIQI",
+      "chainId": "tDVW",
+      "decimals": 6,
+      "logoURI": ""
+    },
+    {
+      "name": "YNB Token",
+      "symbol": "YNB",
+      "address": "YNB",
+      "chainId": "tDVW",
+      "decimals": 7,
+      "logoURI": ""
+    },
+    {
+      "name": "YY token",
+      "symbol": "YY",
+      "address": "YY",
+      "chainId": "tDVW",
+      "decimals": 4,
+      "logoURI": ""
+    },
+    {
+      "name": "ZZQ Token",
+      "symbol": "ZZQ",
+      "address": "ZZQ",
+      "chainId": "tDVW",
+      "decimals": 6,
+      "logoURI": ""
+    }
+  ]
+}
