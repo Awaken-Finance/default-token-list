@@ -1,0 +1,33 @@
+{
+  "name": "Awaken Default List",
+  "timestamp": "2022-11-17T07:49:24.259Z",
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 1
+  },
+  "tags": {},
+  "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
+  "keywords": [
+    "default",
+    "awaken"
+  ],
+  "tokens": [
+    {
+      "name": "ELF token",
+      "symbol": "ELF",
+      "address": "ELF",
+      "chainId": "tDVW",
+      "decimals": 8,
+      "logoURI": ""
+    },
+    {
+      "name": "USDT token",
+      "symbol": "USDT",
+      "address": "USDT",
+      "chainId": "tDVW",
+      "decimals": 8,
+      "logoURI": ""
+    }
+  ]
+}
