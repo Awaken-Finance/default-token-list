@@ -2,7 +2,7 @@
   "name": "@awaken/default-token-list",
   "version": "2.0.2",
   "description": "◦ The Awaken default token list",
-  "main": "build/awaken-default.tokenlist.json",
+  "main": "build/awaken-default.tokenlist.aelf.json",
   "exports": {
     ".": "./build/awaken-default.tokenlist.aelf.json",
     "./tdvv": "./build/awaken-default.tokenlist.tdvv.json",
