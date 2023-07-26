@@ -26,7 +26,7 @@
       "symbol": "USDT",
       "address": "USDT",
       "chainId": "tDVV",
-      "decimals": 8,
+      "decimals": 6,
       "logoURI": ""
     }
   ]
