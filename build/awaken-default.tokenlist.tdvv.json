@@ -1,6 +1,6 @@
 {
   "name": "Awaken Default List",
-  "timestamp": "2022-11-17T07:49:24.259Z",
+  "timestamp": "2024-5-16T07:49:24.259Z",
   "version": {
     "major": 2,
     "minor": 0,
@@ -8,10 +8,7 @@
   },
   "tags": {},
   "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
-  "keywords": [
-    "awaken",
-    "default"
-  ],
+  "keywords": ["awaken", "default"],
   "tokens": [
     {
       "name": "ELF token",
@@ -27,6 +24,46 @@
       "address": "USDT",
       "chainId": "tDVV",
       "decimals": 6,
+      "logoURI": ""
+    },
+    {
+      "name": "ETH",
+      "symbol": "ETH",
+      "address": "",
+      "chainId": "tDVV",
+      "decimals": 8,
+      "logoURI": ""
+    },
+    {
+      "name": "BNB Token",
+      "symbol": "BNB",
+      "address": "",
+      "chainId": "tDVV",
+      "decimals": 8,
+      "logoURI": ""
+    },
+    {
+      "name": "USDC",
+      "symbol": "USDC",
+      "address": "",
+      "chainId": "tDVV",
+      "decimals": 6,
+      "logoURI": ""
+    },
+    {
+      "name": "DAI",
+      "symbol": "DAI",
+      "address": "",
+      "chainId": "tDVV",
+      "decimals": 8,
+      "logoURI": ""
+    },
+    {
+      "name": "Schrodinger",
+      "symbol": "SGR-1",
+      "decimals": 8,
+      "chainId": "tDVV",
+      "address": "",
       "logoURI": ""
     }
   ]
